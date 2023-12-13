@@ -1,6 +1,6 @@
 import styled, { css } from "styled-components";
 
-const Button = styled.button`
+const StyledButton = styled.button`
   background: transparent;
   color: black;
   padding: 10px 20px;
@@ -36,4 +36,4 @@ const Button = styled.button`
   }}
 `;
 
-export default Button;
+export default StyledButton;
